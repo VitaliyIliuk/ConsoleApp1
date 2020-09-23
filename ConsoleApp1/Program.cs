@@ -7,6 +7,8 @@ namespace ConsoleApp1
         class MyClass
         {
             string name { get; set; }
+
+            string adress { get; set; }
         }
         static void Main(string[] args)
         {
